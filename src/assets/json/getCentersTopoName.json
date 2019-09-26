@@ -1,0 +1,32 @@
+{
+  "resultCode": 0,
+  "resultMsg": "OK",
+  "systemTime": "2017-10-17 17:47:15",
+  "data": [
+    {
+      "name": "服务器数量",
+      "isVirtual": false,
+      "className": "hexagons-box-one"
+    },
+    {
+      "name": "主机数量",
+      "isVirtual": true,
+      "className": "hexagons-box-two"
+    },
+    {
+      "name": "系统数量",
+      "isVirtual": false,
+      "className": "hexagons-box-three"
+    },
+    {
+      "name": "子系统数量",
+      "isVirtual": false,
+      "className": "hexagons-box-four"
+    },
+    {
+      "name": "应用实例数量",
+      "isVirtual": false,
+      "className": "hexagons-box-five"
+    }
+  ]
+}

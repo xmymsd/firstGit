@@ -1,0 +1,53 @@
+{
+    "list": [{
+        "bianhao": "01",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "02",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "03",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "04",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "05",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "06",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "07",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "08",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "09",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }, {
+        "bianhao": "10",
+        "scorename":"招商银行评分表",
+        "isPublish": false,
+        "bank":"招商银行（高额)"
+    }]
+}
